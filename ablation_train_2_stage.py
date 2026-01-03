@@ -19,6 +19,7 @@ import torch.nn.functional as F
 
 """
 this is a github test!
+测试一下gitgraph功能
 """
 
 os.environ["CUDA_DEVICE_ORDER"] = 'PCI_BUS_ID'
