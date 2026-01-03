@@ -1,0 +1,32 @@
+# 忽略你的数据文件和模型文件
+*.npy
+*.npz
+*.pth
+*.pt
+*.bin
+*.h5
+*.ckpt
+*.png
+
+# 忽略Python缓存和字节码
+__pycache__/
+*.py[cod]
+*$py.class
+.pyc
+
+# 忽略Python虚拟环境
+venv/
+env/
+.venv/
+
+# 忽略IDE和环境配置文件
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+*.temp
